@@ -1,0 +1,161 @@
+%!Adobe-FontList 1.14
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Utilisateurs\AURE_NCASE\_AURE\PERSO\BoI Four Souls\__REGLES\Comprehensive Rules 1.3 Translation Fork\Document fonts\arial.ttf
+DataFormat:sfntData
+FileLength:1036584
+FileModTime:1523468050
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BirchStd
+FamilyName:Birch Std
+StyleName:Regular
+FullName:Birch Std
+MenuName:Birch Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Utilisateurs\AURE_NCASE\_AURE\PERSO\BoI Four Souls\__REGLES\Comprehensive Rules 1.3 Translation Fork\Document fonts\BirchStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:38036
+FileModTime:1361529482
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:360
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Utilisateurs\AURE_NCASE\_AURE\PERSO\BoI Four Souls\__REGLES\Comprehensive Rules 1.3 Translation Fork\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1361531780
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Bold
+FamilyName:Open Sans
+StyleName:Bold
+FullName:Open Sans Bold
+MenuName:Open Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Utilisateurs\AURE_NCASE\_AURE\PERSO\BoI Four Souls\__REGLES\Comprehensive Rules 1.3 Translation Fork\Document fonts\OpenSans-Bold.ttf
+DataFormat:sfntData
+FileLength:224592
+FileModTime:1476716970
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-BoldItalic
+FamilyName:Open Sans
+StyleName:Bold Italic
+FullName:Open Sans Bold Italic
+MenuName:Open Sans
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Utilisateurs\AURE_NCASE\_AURE\PERSO\BoI Four Souls\__REGLES\Comprehensive Rules 1.3 Translation Fork\Document fonts\OpenSans-BoldItalic.ttf
+DataFormat:sfntData
+FileLength:213292
+FileModTime:1476716970
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Italic
+FamilyName:Open Sans
+StyleName:Italic
+FullName:Open Sans Italic
+MenuName:Open Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Utilisateurs\AURE_NCASE\_AURE\PERSO\BoI Four Souls\__REGLES\Comprehensive Rules 1.3 Translation Fork\Document fonts\OpenSans-Italic.ttf
+DataFormat:sfntData
+FileLength:212896
+FileModTime:1476716970
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans
+FamilyName:Open Sans
+StyleName:Regular
+FullName:Open Sans
+MenuName:Open Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Utilisateurs\AURE_NCASE\_AURE\PERSO\BoI Four Souls\__REGLES\Comprehensive Rules 1.3 Translation Fork\Document fonts\OpenSans-Regular.ttf
+DataFormat:sfntData
+FileLength:217360
+FileModTime:1476716970
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PermanentMarker-Regular
+FamilyName:Permanent Marker
+StyleName:Regular
+FullName:Permanent Marker Regular
+MenuName:Permanent Marker
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Utilisateurs\AURE_NCASE\_AURE\PERSO\BoI Four Souls\__REGLES\Comprehensive Rules 1.3 Translation Fork\Document fonts\PermanentMarker-Regular.ttf
+DataFormat:sfntData
+FileLength:74632
+FileModTime:1545957560
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+

@@ -1,4 +1,4 @@
-﻿foreword
+foreword
 Hello, my name is Jon (@jonzo11). My goal was to create a comprehensive ruleset for The Binding of Isaac: Four Souls. I researched questions that people asked Ed about the game on Twitter. Those questions often pointed to specific rules that were omitted from the rule sheet included with the game. I built out this ruleset following a logic that conformed to Ed’s answers. I hope that my research and logic stay true. As of this version, Ed is still clarifying rules; if you notice something that you don’t think is right or know of something I’ve missed, message me on Twitter and I’ll look into it for a future version.
 It’s clear that Magic: the Gathering serves as a source of inspiration for Four Souls. Ed has stated that certain rules work just like they do in Magic. As such, Magic’s comprehensive rules were used as a guiding principle for particularly murky areas of the rules.
 Thanks for looking! I hope this document serves you well.
@@ -22,10 +22,6 @@ Shuffle the character deck and deal out one character card and their starting it
 All players start with their character card deactivated (turned sideways) and their starting item recharged (turned upright).
 All players start with 3 loot cards and 3¢.
 Cain plays first. If Cain is not in play, then the saddest person plays first.
-
-
-
-
 
 
 
@@ -73,6 +69,8 @@ Tarot cards are similar to basic loot, but have unique effects.
 
 Trinkets
 Place played trinkets in front of you. They are passive items while in play.
+
+
 
 
 monster cards
@@ -124,6 +122,10 @@ reward
 Awarded on death
 
 
+
+
+
+
 how to play
 
 
@@ -160,8 +162,6 @@ Below is a visualization of the stack. Butter Bean and Dice Shard (loot cards) a
 
 
 
-
-
 priority
 Generally, at any given point someone has priority. The player with priority is the only player that can play effects, purchase, or attack. The following rules describe how priority works:
 You can only play effects, purchase, or attack while you have priority.
@@ -189,10 +189,6 @@ If the timing is not outlined here, the active player chooses the order of the e
 resolving the stack
 When all players pass priority in succession, whatever is on top of the stack resolves. The final part of a loot card or non-monster card resolving is going to its discard pile. Generally, after anything resolves, and after any triggered effects have been added to the stack, the active player gets priority.
 Conceptually, think of each effect on the stack as a physical card. As they are played or triggered, you pile the cards on top of each other. To find out what happens next, you take off the top card of the stack and do what it says. Each time you take something off, players have a chance to put more cards on. This continues until the pile is empty and nobody wants to play any more cards.
-
-
-
-
 
 
 
@@ -280,8 +276,6 @@ You can only die once per turn, and you will heal to full health at the next end
 
 
 
-
-
 other rules
 
 
@@ -301,12 +295,6 @@ Condition Not Met - Some effects require a condition to trigger and/or resolve. 
 Attack Fizzle - If the target of your attack declaration is an active monster and it leaves play, the declaration will fizzle and the attack won’t start. You do not lose your attack (it didn’t happen) and you can simply declare another attack.
 Purchase Fizzle - If the target of your purchase declaration leaves play, the declaration will fizzle and the purchase won’t happen. A purchase declaration will fizzle on resolution (be canceled instead of resolving) if you don’t have enough ¢ when your declaration resolves. In either case, you do not lose your purchase (it didn’t happen) and you can simply declare another purchase.
 Leaving Combat - If a player or monster leaves an attack for any reason, any attack roll or combat damage on the stack fizzles. This can be from the player or monster dying, an effect canceling the attack, or an effect ending the turn.
-
-
-
-
-
-
 
 
 
@@ -357,6 +345,8 @@ There are a number of souls to be gained that aren’t boss souls or bonus souls
 
 The Lost
 The Lost starts the game with 1 soul. This soul can’t be destroyed, stolen, or lost in any other way.
+
+
 The Bone
 Resolving the final paid effect on The Bone will turn it into a soul card. If it is ever discarded after becoming a soul card, it is lost for good similar to a bonus soul.
 
@@ -375,46 +365,6 @@ You play Lost Soul like any other loot card. When it resolves, it becomes a soul
 
 Holy Chest
 If Holy Chest resolves with a 6 for the roll, it turns into a soul for whoever played it (almost always the active player).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -552,7 +502,7 @@ In the following examples, the player whose name begins with the letter “a” 
 
 
 priority/stack example
-Amy has just entered her action phase. Neil (next in turn order)has a Gold Bomb that he play targeting Amy, but he doesn’t have priority yet. Amy chooses to declare a purchase. When she does, she keeps priority. She could do something in response to her purchase before anyone else, but she has no resonses, so she passes priority to Neil. Neil plays the Gold Bomb targeting Amy. Again, he has an opportunity to play something in response first because he retains priority, but he has no other plays, so he passes priority back to Amy. Amy has no response to the Gold Bomb, so she passes priority back to Neil. All players have passed priority in succession, so the top of the stack (Gold Bomb) resolves and kills Amy. This triggers Amy’s death effect and it goes onto the stack above the purchase. Because something resolved, after triggers go on the stack, Amy (the active player) will get priority.
+Amy has just entered her action phase. Neil (next in turn order)has a Gold Bomb that he play targeting Amy, but he doesn’t have priority yet. Amy chooses to declare a purchase. When she does, she keeps priority. She could do something in response to her purchase before anyone else, but she has no responses, so she passes priority to Neil. Neil plays the Gold Bomb targeting Amy. Again, he has an opportunity to play something in response first because he retains priority, but he has no other plays, so he passes priority back to Amy. Amy has no response to the Gold Bomb, so she passes priority back to Neil. All players have passed priority in succession, so the top of the stack (Gold Bomb) resolves and kills Amy. This triggers Amy’s death effect and it goes onto the stack above the purchase. Because something resolved, after triggers go on the stack, Amy (the active player) will get priority.
 
 
 
@@ -564,7 +514,7 @@ Abel has an attack roll on the stack. He controls Godhead while Nathan controls 
 
 
 dice roll example
-Alex owns Dad’s Lost Coin, Meat, and the Relic. He makes an attack roll and rolls a 5 intially. Meat’s +1 bonus goes on the stack right away, and then players get a chance to play stuff. Nola has a Dice Shard. She tactically waits for Meat’s bonus to resolve before playing Dice Shard and forcing Alex to reroll. He rolls a 1. With no more modifiers from either player, the roll resolves as a 1. Combat damage diirected at Alex is put onto the stack, followed by The Relic and Dad’s Lost Coin. The Relic’s effect resolves and Alex loots 1, then Dad’s Lost Coin’s effect resolves and he makes a final reroll. It’s a 6, so the combat damage needs to be updated to match the new result.
+Alex owns Dad’s Lost Coin, Meat, and the Relic. He makes an attack roll and rolls a 5 initially. Meat’s +1 bonus goes on the stack right away, and then players get a chance to play stuff. Nola has a Dice Shard. She tactically waits for Meat’s bonus to resolve before playing Dice Shard and forcing Alex to reroll. He rolls a 1. With no more modifiers from either player, the roll resolves as a 1. Combat damage directed at Alex is put onto the stack, followed by The Relic and Dad’s Lost Coin. The Relic’s effect resolves and Alex loots 1, then Dad’s Lost Coin’s effect resolves and he makes a final reroll. It’s a 6, so the combat damage needs to be updated to match the new result.
 
 
 purchasing example
@@ -772,6 +722,3 @@ Whenever a player gains a soul, every other player gains 5¢ and the shop is exp
 
 minions die first
 You can’t attack a Boss monsters while there is an active Basic monster.
-
-
-test 01

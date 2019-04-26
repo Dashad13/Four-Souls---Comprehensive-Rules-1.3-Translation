@@ -772,3 +772,6 @@ Whenever a player gains a soul, every other player gains 5¢ and the shop is exp
 
 minions die first
 You can’t attack a Boss monsters while there is an active Basic monster.
+
+
+test 01

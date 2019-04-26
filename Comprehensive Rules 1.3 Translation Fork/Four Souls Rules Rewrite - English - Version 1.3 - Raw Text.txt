@@ -1,0 +1,774 @@
+﻿foreword
+Hello, my name is Jon (@jonzo11). My goal was to create a comprehensive ruleset for The Binding of Isaac: Four Souls. I researched questions that people asked Ed about the game on Twitter. Those questions often pointed to specific rules that were omitted from the rule sheet included with the game. I built out this ruleset following a logic that conformed to Ed’s answers. I hope that my research and logic stay true. As of this version, Ed is still clarifying rules; if you notice something that you don’t think is right or know of something I’ve missed, message me on Twitter and I’ll look into it for a future version.
+It’s clear that Magic: the Gathering serves as a source of inspiration for Four Souls. Ed has stated that certain rules work just like they do in Magic. As such, Magic’s comprehensive rules were used as a guiding principle for particularly murky areas of the rules.
+Thanks for looking! I hope this document serves you well.
+-Jon
+
+
+
+
+game overview
+Players take turns playing loot cards and using items to kill monsters in order to gain more loot, items, and souls. The first player to have 4 souls is the winner. Cooperation, bartering, and betrayal are all strongly encouraged.
+
+
+
+
+game setup
+Shuffle the treasure, loot, and monster decks. Put out 100¢.
+Place 2 treasure cards face up next to the treasure deck. These are the current shop items.
+Place 2 monster cards face up next to the monster deck. Each occupies a monster slot and both are active monsters (the topmost monster card of a monster slot). Place any non-monster cards revealed during setup on the bottom of the monster deck.
+If you are playing with the bonus souls, place them face up next to the play area (see Souls).
+Shuffle the character deck and deal out one character card and their starting item to all players.
+All players start with their character card deactivated (turned sideways) and their starting item recharged (turned upright).
+All players start with 3 loot cards and 3¢.
+Cain plays first. If Cain is not in play, then the saddest person plays first.
+
+
+
+
+
+
+
+
+
+
+cards
+
+
+
+
+treasure cards
+Treasure cards are items you acquire. Place your items in front of you visible to everyone. You take ‘treasure’ from the top of the treasure deck. There are two types of treasure:
+
+
+Active Items
+Active items have a gold border and describe effects you can play. There are two ways to use active items to play their effects and each corresponds to a special symbol:
+
+
+Activated effects
+are preceded by a turning arrow symbol. You can play these effects by activating (turning sideways) the item. You must recharge the item before activating it again either through an effect or during your recharge step.
+
+
+Paid effects
+are preceded by a $ symbol. You can play these effects by paying the specified cost. You are not required to activate an item to use its paid effect, and you can use paid effects of an item that is activated.
+
+
+Passive Items
+Passive items have a silver border and either modify your abilities or describe triggered effects (effects that are played automatically under certain conditions).
+
+
+
+
+loot cards
+You draw loot cards and keep them in your hand until you play or discard them. Loot x means to draw x cards from the loot deck. You can activate your character card to play an additional loot card. There are three different kinds of loot cards:
+
+
+Basic Loot
+Basic loot is used to gain resources, aid in combat, or mess with other players.
+
+
+Tarot cards
+Tarot cards are similar to basic loot, but have unique effects.
+
+
+Trinkets
+Place played trinkets in front of you. They are passive items while in play.
+
+
+monster cards
+The monster deck is split into monsters and non-monsters. The active player (the player whose turn it is) gets rewards from monsters that are killed and encounters non-monster cards. There are two types of monsters and two types of non-monsters:
+
+
+Basic Monsters
+Basic monsters are easier to kill and yield smaller rewards.
+
+
+Bosses
+Bosses are harder to kill with bigger rewards that always include at least one soul. When a boss is killed, it becomes a soul card and the active player gains it.
+
+
+Bonus Cards
+Non-monster cards that may help or hinder the active player.
+
+
+Curses
+Non-monster cards that curse someone of the active player’s choosing. Place curses near your character card. When you die, discard all curses afflicting you.
+
+
+
+
+monster card breakdown
+
+
+health
+Reduce to 0 to kill
+
+
+evasion
+Dice roll needed to hit
+
+
+attack
+Damage this deals if attacker misses
+
+
+effect
+Only effects on active monsters can trigger
+
+
+soul(s)
+Awarded on death
+
+
+reward
+Awarded on death
+
+
+how to play
+
+
+
+
+playing effects
+You have a number of tools at your disposal to steer the game in your favor: you can play loot cards, activated effects, or paid effects. Doing any of those things is referred to as playing an effect. Additionally, if it is your turn, you can purchase items, or attack monsters. Purchasing and attacking work differently than playing effects and are covered in their own sections.
+It is also important to know that players regularly interrupt other player’s turns to play their own effects. Two systems determine what will affect the game next and which player can make the next move. These are the stack and priority respectively.
+
+
+
+
+the stack
+Effects go on top of the stack so that other players have a chance to react. The stack is the place where effects wait to resolve (affect the game). You choose the mode (for effects that say “choose 1”) and targets for effects as they go on the stack. The following game events also use the stack and some involve multiple steps:
+Purchasing (see Purchasing)
+Rolling a dice (see Dice Rolls)
+Attacking (see Attacking)
+Combat damage (see Attacking)
+Monster death (see Monster Death)
+Refilling slots and decks (see Refilling)
+Encountering non-monster cards (see Attacking/Refilling)
+Player death (see Player Death)
+
+
+
+
+example stack
+Below is a visualization of the stack. Butter Bean and Dice Shard (loot cards) are played directly onto the stack, while the other two are representations of the dice roll result and Book of Sin’s effect.
+1. Book of Sin was activated first, putting its effect on the stack.
+2. As Book of Sin started to resolve, it needed a roll. A roll was made and put on the stack.
+3. Dice shard was played in response to the roll targeting the roll.
+4. Butter Bean was played in response to Dice Shard targeting Dice Shard. As it stands it will resolve first, canceling Dice Shard and keeping the roll of 4.
+
+
+
+
+
+
+priority
+Generally, at any given point someone has priority. The player with priority is the only player that can play effects, purchase, or attack. The following rules describe how priority works:
+You can only play effects, purchase, or attack while you have priority.
+While you have priority, you can either play an effect, purchase, or attack, and keep priority, or pass priority to the next player.
+There are times when nobody has priority. Players can’t play effects during these times.
+
+
+
+
+responding
+You can play loot cards or use activated or paid effects in response to whatever is currently on the stack. Doing so puts your response on top of the stack which will cause it to resolve before whatever is below it. You can also respond while the stack is empty. In fact, this is the only time you can purchase or attack (see Turn Structure).
+
+
+
+
+timing
+Triggered effects can be triggered by all kinds of game events. If multiple effects trigger at the same time, they are put onto the stack in the following order:
+Effects from monster cards go on first, including monster death. If there are more than one, the active player chooses the relative order.
+All other effects go on the stack in turn order starting with the active player. If you own multiple effects, you choose their relative order. For the purposes of timing, you own your death.
+If the timing is not outlined here, the active player chooses the order of the effects in question.
+
+
+
+
+resolving the stack
+When all players pass priority in succession, whatever is on top of the stack resolves. The final part of a loot card or non-monster card resolving is going to its discard pile. Generally, after anything resolves, and after any triggered effects have been added to the stack, the active player gets priority.
+Conceptually, think of each effect on the stack as a physical card. As they are played or triggered, you pile the cards on top of each other. To find out what happens next, you take off the top card of the stack and do what it says. Each time you take something off, players have a chance to put more cards on. This continues until the pile is empty and nobody wants to play any more cards.
+
+
+
+
+
+
+
+
+turn structure
+The flow of a turn is outlined below and includes three phases and the steps involved for each phase. When all players pass priority in succession while the stack is empty, the turn progresses to the next step or phase. “You” in this section refers to the active player. If a step does not mention priority, no one gets priority during that step.
+1. starting phase
+Recharge all of your items and your character card.
+Start of turn effects trigger, then you get priority.
+“Loot 1.” is put on the stack for you, then you get priority.
+2. action phase
+You get priority. During this phase, you may do any or all of the following in any order:
+Play 1 loot card. (Remember: activating your character card lets you play another loot card. It even works on your opponent’s turns.)
+Purchase a shop item or the topmost card of the treasure deck. Purchasing can’t be done in response to anything (see Purchasing).
+Attack an active monster or the topmost card of the monster deck. Attacking can’t be done in response to anything (see Attacking).
+3. ending phase
+End of turn effects trigger, then you get priority. (If an effect ends the turn, the current turn jumps to this step if not already in the Ending Phase. Ending the turn does not cancel anything on the stack.)
+Heal all players and monsters to full health, then effects that last until the end of turn wear off.
+If you have more than 10 loot cards in hand, discard down to 10.
+Pass the turn to the player to your left.
+
+
+
+
+game events
+The following sections cover different game events. Many of these have multple steps, and you move through the steps when something resolves or based on some condition. If a step triggers effects, those need to resolve before moving on to the next step. For example, step 5 in Attacking has combat damage resolve. If that combat damage triggers any effects, those must resolve before making another attack roll.
+
+
+
+
+purchasing
+You may purchase once a turn during your action phase. You may purchase a shop item or the top card of the treasure deck for 10¢. You can only start a purchase while the stack is empty (i.e. not in response to anything). To purchase, say what you are purchasing. This declaration goes on the stack, and when it resolves, the purchase happens: you simultaneously give 10¢ to the supply and gain the purchased item. If you purchase a shop item, replace it with the top card of the treasure deck (see Refilling).
+
+
+
+
+dice rolls
+You make dice rolls for some effects or while attacking; rolls made as part of an attack are considered attack rolls. When an effect that needs a roll begins to resolve, first make the initial roll and put it on the stack. Only initial rolls go on the stack; effects that reroll simply modify the result on the stack. When you roll:
+The intial result is added to the stack, then all applicable “+X/-X to dice rolls” effects are added to the stack on top of the intial result, then the active player gets priority. (This is when rerolls and other effects that modify the result can be played.)
+The roll resolves: The roll resolves as the current result. If rolling for an effect, the effect becomes defined with the result. If the roll is an attack roll, combat damage is added to the stack. Effects that trigger off of the result are added to the stack immediately on top of the effect or combat damage being rolled for, then the active player gets priority. (If Dad’s Lost Coin, Missing Page, or Sacred Heart change the result here, you must change the effect or combat damage to reflect the new result. These items cause final rerolls: no modifiers can be played and this reroll doesn’t cause effects to trigger.)
+You always make rolls with six sided dice. Rolls and monster evasion can’t go above 6 or below 1.
+
+
+
+
+attacking
+You may attack once a turn during your action phase. You may attack an active monster or the top card of the monster deck. You can only start an attack while the stack is empty (i.e. not in response to anything). Follow the steps below to attack:
+To start an attack, say what you are attacking. Put your declaration on the stack. When it resolves, the attack starts; continue to step 2. If either the player or monster dies at any time during the attack, the attack ends (see Monster Death, Player Death).
+If you are attacking the top of the monster deck, reveal the card. If it is a monster card, put it into a monster slot and continue to step 3. If it is a non-monster card the attack ends; you must play it, then you get priority.
+Make an attack roll with a six sided dice (see Dice Rolls). If the roll resolves to a number less than the monster’s evasion, the attack misses; combat damage equal to the monster’s attack is put on the stack directed at you. If the roll resolves to a number equal to or greater than the monster’s evasion, the attack hits; combat damage equal to the player’s attack is put on the stack directed at the monster. Continue when damage resolves. You get priority.
+Either you or the monster take combat damage. Put any effects that trigger off of this damage on the stack. After they resolve, go back to step 3 if both combatants are alive.
+You can only attack during your action phase. Some effects can force you to attack; you must make any forced attacks at the next possible time that turn (i.e. the next time you have priority during your action phase while the stack is empty). Effects can give you additional attacks. Killing a monster outside of combat with an effect is not an attack.
+
+
+
+
+monster death
+When a monster is reduced to 0 health or killed by an effect:
+Put its death on the stack; when it resolves, continue. The active player gets priority.
+The monster card is moved to the stack, then the reward is put on the stack, then any on-death triggered effects from the monster are put on the stack; when they resolve, continue. The active player gets priority.
+The active player gains the monster card as a soul card if it is a boss, or discards it if it is a basic monster. If the monster slot is empty, trigger a refill of that monster slot (see Refilling).
+
+
+
+
+refilling
+Monster slots must be filled when empty. Think of each slot as having a triggered ability that reads “When this slot becomes empty, refill it.” Whenever this happens:
+Put the refill effect on the stack; when it resolves, continue. The active player gets priority.
+The active player reveals the top card of the monster deck. If it is a monster card, put it into the empty monster slot. The refill is done. If it is a non-monster, the active player plays it, then gains priority. Once that card resolves, repeat this step.
+Shop items also need to be replaced when there is an empty slot. Follow the steps above, ignoring step 2 because there are no cards that are played from the shop deck.
+Whenever a deck runs out of cards, instantly shuffle its discard pile and make it the deck. This can happen in the middle of an effect resolving and does not use the stack.
+
+
+
+
+player death
+When you are reduced to 0 health or killed by an effect:
+Put your death on the stack; continue when it has resolved. The active player gets priority.
+Discard any curses afflicting you, then The Death Penalty  is put on the stack, then “before paying penalties…” and “when a player dies” effects trigger; The active player gets priority.
+To pay The Death Penalty you discard a loot card, lose 1¢, destroy one non-eternal item you control, deactivate (turn sideways without using) your items and character card, and end your turn if you are the active player.
+You can only die once per turn, and you will heal to full health at the next ending phase. When your death is prevented, your health is returned to what it was before you took lethal damage or were killed by an effect. A dead player will sometimes need to refill a monster slot and play non-monster cards.
+
+
+
+
+
+
+
+
+other rules
+
+
+
+
+bartering
+Players are encouraged to trade for favors or nefarious acts. When bartering, a player can pay another player any amount of ¢ for practically any favor. Player’s can’t trade items or loot in this fashion. Players can give ¢ away without getting anything in return, but the receiving player must agree to it. Bartering does not use the stack.
+Once paid, promises don’t have to be kept. Be warned: if you go back on your promises, it will be hard for others to trust you.
+
+
+
+
+fizzling
+Cards like No! and Butter Bean! cancel effects. When something is canceled it is removed from the stack without resolving then discarded if it is a card. Effects and game events can also be canceled for a variety of reasons due to a change in game state. This is called fizzling. Below are some common fizzles:
+Invalid Targets - Players must declare targets when playing effects. If the target leaves play or becomes untargetable for any other reason, the effect fizzles.
+Condition Not Met - Some effects require a condition to trigger and/or resolve. The effect will fizzle on resolution if the condition is false. Examples: Eden’s Blessing, Sacred Heart, etc.
+Attack Fizzle - If the target of your attack declaration is an active monster and it leaves play, the declaration will fizzle and the attack won’t start. You do not lose your attack (it didn’t happen) and you can simply declare another attack.
+Purchase Fizzle - If the target of your purchase declaration leaves play, the declaration will fizzle and the purchase won’t happen. A purchase declaration will fizzle on resolution (be canceled instead of resolving) if you don’t have enough ¢ when your declaration resolves. In either case, you do not lose your purchase (it didn’t happen) and you can simply declare another purchase.
+Leaving Combat - If a player or monster leaves an attack for any reason, any attack roll or combat damage on the stack fizzles. This can be from the player or monster dying, an effect canceling the attack, or an effect ending the turn.
+
+
+
+
+
+
+
+
+
+
+
+
+souls
+
+
+
+
+winning the game
+Any card with the soul symbol can turn into a soul card. The soul symbol says how many souls that soul card is worth.
+The first player to have 4 souls wins the game.
+
+
+
+
+bonus souls
+Once you have a better understanding of the game’s mechanics, you are encouraged to add the bonus souls to your games. These bonus cards are not added to any deck, but instead lay face up next to the game in view of all the players.
+These souls, once gained, act like any other soul card. Bonus souls can only be gained once per game; if these soul cards are ever discarded, they are placed face down next to the game and cannot be gained again.
+
+
+
+
+Soul of Greed
+The first player to have 25¢ or more instantly gains the Soul of Greed.
+
+
+Soul of Gluttony
+The first player to have 10 or more loot cards in their hand instantly gains the Soul of Gluttony.
+
+
+Soul of Guppy
+The first player to have 2 or more Guppy items in their possession instantly gains the Soul of Guppy.
+
+
+guppy items
+
+
+
+
+other souls
+There are a number of souls to be gained that aren’t boss souls or bonus souls.
+
+
+
+
+The Lost
+The Lost starts the game with 1 soul. This soul can’t be destroyed, stolen, or lost in any other way.
+The Bone
+Resolving the final paid effect on The Bone will turn it into a soul card. If it is ever discarded after becoming a soul card, it is lost for good similar to a bonus soul.
+
+
+Pandora’s Box
+Resolving the activated effect on Pandora’s Box with a 6 for the roll turns it into a soul.
+
+
+The Chest
+If you own The Chest and it is destroyed (including by the death penalty), it turns into a soul card for you instead of going to the discard pile.
+
+
+Lost Soul
+You play Lost Soul like any other loot card. When it resolves, it becomes a soul card and you gain it.
+
+
+Holy Chest
+If Holy Chest resolves with a 6 for the roll, it turns into a soul for whoever played it (almost always the active player).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reference
+
+
+
+
+glossary
++  - Gives you additional max health. Think of these as heart containers. The extra health is full when you get it. If you lose this bonus while damaged, you simply lose the “empty” heart container
++/-  - Affects how much damage you do with combat damage. Your bonus is checked as combat damage resolves, not when it is put on the stack.
++/- to Rolls - Dice modifiers that add or subtract to all of your dice rolls are applied to all of your rolls. This modifier is applied when a dice roll would resolve. See Dice Rolls.
+Active Player - The player whose turn it is.
+Activated - Items turned sideways are considered activated and can’t be activated until recharged. Paid effects are not activated effects.
+Additional Attacks - If you are forced to attack again, you must declare an attack at the first possible time (during your action phase while the stack is empty). If the effect says “this turn,” the attacks don’t need to happen immediately but does need to happen before leaving the action phase (i.e. you can’t pass priority during your action phase until you’ve made the attack).
+¢ - There are only 100¢ available. When these run out, players need to spend or lose ¢ to increase the supply. Used for purchasing, bartering, and to pay the costs of some paid items.
+Counters - Counters are markers you place on specific cards that ask for them. They can be represented by anything you’d like (stone, dice, coin, etc.). If a card with counters is stolen, the counters stay on it.
+Damage Prevention - Damage prevention is used to prevent incoming damage to a target. You don’t take damage that is prevented. Unused instances of prevention last until the end of the turn, but the entire instance is used on any incoming damage, even if there is more prevention than damage at the time.
+Death - Monsters and Players can die when reduced to 0 HP or killed by an effect. If a player or monster is killed by damage, put any effects that trigger on damage on the stack first, followed by the death. Think of the check for damage coming before the check for 0 health.
+Destroy - When a card is destroyed, it is placed in the appropriate discard pile. Destroying an active monster is the same as killing it. Destroying a player is the same as killing them.
+Discard - Send to the appropriate discard pile. The final part of a loot card or non-monster card resolving is that card being put into its discard pile. Discarding active monsters yields no rewards. When a shop item or active monster is discarded, replace them if the slot they were in becomes empty (see Refilling). Unless an effect says otherwise, a player being forced to discard loot or soul cards gets to choose which cards to discard.
+Expand - Effects can expand the shop or the number of monster slots. Fill the new slots from the top of the correct deck.
+Healing - Effects that heal cannot put a player’s or monster’s health above its current maximum.
+In Play - Items owned by players, items in the shop, and active monsters are all considered in play.
+Loot X - Draw X cards from the loot deck.
+Next Player - The next player in turn order.
+Priority - The person with priority is the only person at any given moment who can play effects or take actions like purchasing or attacking. Once everyone has passed priority in succession, the top of the stack resolves.
+The Stack - The place where loot cards, effects, and other game events wait to resolve. When something happens and that something uses the stack, it is placed on top of the stack, and the active player gets priority.
+Steal/swap - Unless an effect says otherwise, the stealing/swapping player chooses what to steal/swap. Counters stay on stolen/swapped items.
+
+
+
+
+treasure errata
+Flush* - Put all shop items not being purchased on the bottom…
+Dad’s Lost Coin - When anyone would roll a 1, you may force that player to reroll it instead.
+The Dead Cat - Each time you would take damage…
+Guppy’s Collar - Each time you would die, roll…
+Jawbone - Steal up to 3¢ from a player.
+The Missing Page - When anyone would roll a 5, you may force that player to reroll it instead.
+Ouija Board - …You may force the active player to play one non-monster card revealed this way...
+Sacred Heart - Each time you would roll a 1, you may turn it into a 6 instead..
+Void* - Discard an active monster that is not being attacked or a shop item not being purchased.
+
+
+
+
+loot errata
+Broken Ankh - Each time you would die, roll…
+Guppy’s Hairball - Each time you would take damage, roll…
+
+
+
+
+monster errata
+Curse cards - When revealed, Give this curse to any player...
+Duke of Flies - When this would take damage...
+We Need To Go Deeper - ...back on top of the monster deck in any order.
+
+
+
+
+
+
+*These errata don’t quite fit once the concept of priority is added to the game, but I have included them for completeness.
+card rulings
+
+
+
+
+Character Cards
+Eden - The two cards not selected are put on the bottom of the deck. Items with “destroy this: effect” don’t function with Eden because the item gains eternal. Glass Cannon is an exception because destroying it is not a cost of initial activation. A roll 1-5 will not draw you loot.
+
+
+
+
+treasure cards
+9 Volt - You can use recharged items before the next turn (When the stack is empty, you can still add effects).
+Baby Haunt - Despite being purple this is not a curse. It is an item; it stays in the shop when revealed and can be targeted by effects that target items.
+Blank Card - See Blank Card in the Appendix.
+Bum-bo! - You must put counters on this. The triggered effect that puts counters on Bum-bo! effectively keeps you from gaining ¢ from the supply, but you can still get ¢ from stealing or bartering. The effects can stack; if you have 25 or more counters, you have all three bonuses.
+Contract From Below - One of the items destroyed can be itself.
+Crystal Ball - This will fizzle if there is a roll on the stack. As with all effects that trigger on dice rolls, this triggers on a roll resolving, which includes any modifications to the roll.
+Daddy Haunt - The effect adds 1 to the total damage you take. It isn’t an additional instance of damage. Despite being purple this is not a curse. It is an item; it stays in the shop when revealed and can be targeted by effects that target items.
+Diplopia/Modeling Clay - Copying an item with counters on it does not also copy the counters. Counters earned while copying persist after copying ends. Counters are generalized and can be used with any card that interacts with counters. Copying Dead Cat is a special case. If an item copies Dead Cat, the number of counters on it is set to 9. This happens each time you copy Dead Cat. Counters generated by copying Dead Cat are still generalized.
+Glass Cannon - As with all effects that require a roll, the roll needs to be resolved before the effect to determine what the effect will be. If you put more than one activation on the stack (through recharges), the first instance of a 1-5 will fizzle the rest because glass cannon can’t be recharged or destroyed.
+Lemon Mishap - Lemon Mishap creates a triggered effect that isn’t attached to any card in play. There can be multiple of these triggered effects active at once, and all of them will stop existing at the same time when effects that last until end of turn wear off.
+Mom’s Shovel - This will stay deactivated in the shop. This can be recharged while in the shop with an effect. Purchasing this does not recharge it.
+Monster Manual - It forces the active player to make an attack against the specified monster at the next possible opportunity following normal attack timing. The forced attack can “use up” the players attach if it is the first attack of the turn. You can force an attack against the top of the monster deck. You can force additional attacks. This will fizzle if used against a player in combat. This will fizzle if the active monster targeted is discarded before this resolves.
+Remote Detonator - Vote in turn order starting with the active player.
+Sacred Heart/Dad’s Lost Coin/The Missing Page - They can fizzle if the roll is modified to a number that doesn’t meet their condition when their effect resolves. See Dice Rolling and Errata.
+Shadow - If there are more than one in play, they trigger in turn order, then whichever resolves last gets to choose/receive stuff.
+Two of Clubs - Multiple activations of this do not further multiply an effect.
+
+
+
+
+loot cards
+Butter Bean! - When you cancel a loot card on the stack, the loot card is discarded first, then Butter Bean. Butter Bean can cancel trinkets and Lost Soul while they are on the stack because they are still loot cards (i.e., not items/a soul card) until they resolve. Butter bean will merely delay the use of an item like Mom’s Shovel because destroying the item is part of the effect.
+Counterfeit Penny - This only triggers when ¢ are gained from the supply (not when stealing/bartering). The effect adds 1 to the total ¢ gained; it is not an additional instance of gaining ¢.
+O. The Fool - You can play this with your death on the stack to survive. The death effect fizzles and you still move to the ending phase. Fizzling death in this way is the same as preventing it; your health is returned to what it was before you took lethal damage or were killed by an effect.
+VIII. Justice - You gain loot and ¢ equal to the difference between what you have and the target has. Imagine you have 2 cards and 3¢, and your opponent has 5 cards and 1¢. You play Justice and loot 3 cards (up to 5) but gain 0¢ (you had more).
+
+
+
+
+monster cards
+Ambush - If your first attack is against the top of the deck and you pull Ambush, you only need to make one more attack against the top to make a total of two attacks for the turn.
+Cursed and Holy monsters - Effects on these monsters can trigger outside of combat. Most other monster effects that trigger on dice rolls only trigger when you are attacking them.
+Death’s Head - If this is revealed when attacking the top of the monster deck, you still put it into a slot, but you can’t attack it. You lose your attack.
+Devil Deal - For the third option, you can’t use the item before taking 2 damage.
+Dinga - If you kill on a 6, roll once and double for the total ¢ gained.
+The Haunt - The effect triggers for every 2 points of cumulative damage it takes in a turn. The damage does not have to be dealt in a single instance.
+Ragman - Ragman’s effect can undo getting the soul, potentially keeping a player from winning.
+Satan - The active player must kill themself if they are the last player alive.
+Stoney - If this is revealed when attacking the top of the monster deck, you still put it into a slot, but you can’t attack it. You lose your attack.
+
+
+
+
+
+
+examples
+
+
+
+
+conventions
+In the following examples, the player whose name begins with the letter “a” is the active player, and all players whose name begins with the letter “n” are non-active players.
+
+
+
+
+priority/stack example
+Amy has just entered her action phase. Neil (next in turn order)has a Gold Bomb that he play targeting Amy, but he doesn’t have priority yet. Amy chooses to declare a purchase. When she does, she keeps priority. She could do something in response to her purchase before anyone else, but she has no resonses, so she passes priority to Neil. Neil plays the Gold Bomb targeting Amy. Again, he has an opportunity to play something in response first because he retains priority, but he has no other plays, so he passes priority back to Amy. Amy has no response to the Gold Bomb, so she passes priority back to Neil. All players have passed priority in succession, so the top of the stack (Gold Bomb) resolves and kills Amy. This triggers Amy’s death effect and it goes onto the stack above the purchase. Because something resolved, after triggers go on the stack, Amy (the active player) will get priority.
+
+
+
+
+sequencing example
+Abel has an attack roll on the stack. He controls Godhead while Nathan controls The D6. If Abel resolves Godhead first to change his roll to a 6, Nathan could force a reroll to get a random result. If Abel waits until Nathan resolves The D6 first, he can ensure that the random reroll changes into a 6.
+
+
+
+
+dice roll example
+Alex owns Dad’s Lost Coin, Meat, and the Relic. He makes an attack roll and rolls a 5 intially. Meat’s +1 bonus goes on the stack right away, and then players get a chance to play stuff. Nola has a Dice Shard. She tactically waits for Meat’s bonus to resolve before playing Dice Shard and forcing Alex to reroll. He rolls a 1. With no more modifiers from either player, the roll resolves as a 1. Combat damage diirected at Alex is put onto the stack, followed by The Relic and Dad’s Lost Coin. The Relic’s effect resolves and Alex loots 1, then Dad’s Lost Coin’s effect resolves and he makes a final reroll. It’s a 6, so the combat damage needs to be updated to match the new result.
+
+
+purchasing example
+Ash has put a purchase declaration for the top of the treasure deck on the stack. Ash missed something though: Noah has The Curse recharged and ready to mess up the purchase. In response, Noah activates The Curse to put the top card of the treasure discard pile on top of the treasure deck. When Ash’s declaration to purchase resolves, they must purchase the card that was put on top. Unfortunately for Ash, the card that was put on top was Baby Haunt.
+
+
+
+
+attacking example
+Andres declares an attack against the active monster Gurdy. When the declaration resolves, the attack begins. He rolls a 5 (a hit!), a 4 (a hit!), and then two 1’s (misses) and dies, ending combat. Each roll is resolved before the next. Poor Andres.
+
+
+
+
+monster death example
+Ava is about to resolve an attacking dice roll that will kill Death. Death’s soul will be the first soul gained by anyone so far this game. Nick has 1 loot card in hand: XX. Judgement. Nick thinks there might be a chance to play Judgement to discard Ava’s new soul card. Death goes to 0 health and dies. When it dies it is moved to the stack until all death related stuff is dealt with. Its reward is put onto the stack, and then it’s on-death triggered effect is stacked on top of the rewards. Ava gets priority, but neither player has any plays. The trigger resolves and Ava kills Nick. Nick’s death goes onto the stack, resolves, and he has to pay penalties including discarding Judgement. Next, Ava gets a treasure as a reward. Finally, Death becomes a soul card for Ava. The slot is refilled, and the game continues.
+
+
+
+
+refilling example
+Aubrey just killed and got rewards from a monster they killed. It was the last active monster in the slot, so the refill effect is now on the stack. If, in response, Nash kills Aubrey, they would need to process their death and go to the end of the turn. Effects that trigger at the end of the turn would be put on the stack on top of the refill effect, but eventually the slot would be refilled before the next player takes their turn.
+
+
+
+
+player death example
+Amber has 1¢, 1 loot card, and owns Bloody Penny, Suicide King, and Lazarus’ Rags. Nicole plays and resolves XIII. Death targeting Amber. Their death is put on the stack, and without a way to prevent it, it resolves and they die. The Death Penalty is put on the stack, followed by Bloody penny and Suicide King when they trigger. Amber chooses the order in which they go on the stack. Suicide King’s effect resolves and Amber loots 3, then Bloody Penny’s effect resolves and Amber loots 1. One of the loot cards drawn is O. The Fool. While Amber could play something in response to The Death Penalty, The Fool will not cancel it; The Death Penalty must be paid, similar to refilling monster slots, shop slots, or shuffling the deck. The Death Penalty resolves and Amber discards 1 loot card, loses 1¢, destroys one of their non-eternal items, deactivates their items and character card, and ends their turn because they are the active player. At the beginning of the Ending Phase, Lazaruz’s Rags triggers, along with any other items that trigger at the end of the turn. They are stacked using normal timing rules.
+
+
+
+
+bartering example
+Adam is about to be killed by Fat Bat. Ned offers to use his Yum Heart to prevent the damage for 5¢. Adam says that is too much, and offers 3¢. Ned and Adam eventually agree on 4¢. Adam hands over 4¢, and while Ned thinks about betraying Adam by taking the money and letting Adam die,  he decides to follow through and use Yum Heart to save Adam.
+
+
+
+
+
+
+appendix
+
+
+
+
+blank card
+Multiple activations of Blank Card do not further multiply an effect. Blank Card cannot duplicate trinkets or Lost Soul. In general, this card doubles any countable quality of an effect. See below for specific interactions. The doubled effect is listed.
+* These cards are from the upcoming expansion and have not been finalized as of now.
+basic loot
+2 Cents! - Gain 4¢.
+3 Cents! - Gain 6¢.
+4 Cents! - Gain 8¢.
+A Dime!! - Gain 20¢.
+A Nickel! - Gain 10¢.
+A Penny! - Gain 2¢.
+A Sack - Loot 6.
+*Ansuz - Look at the top 8 cads of any deck and put them back in any order.
+*Black Rune - Roll:
+1-2: Deal 2 damage to all active monsters.
+3-4: Destroy an item and replace it with the top card of the treasure deck.
+5-6: Discard your hand then loot 6.
+Blank Rune - Roll:
+1: Everyone gains 2¢.
+2: Everyone loots 4.
+3: Everyone takes 6 damage.
+4: Everyone gains 8¢.
+5: Everyone loots 10.
+6: Everyone gains 12¢.
+Bomb! - Deal 2 damage to a monster or player.
+Butter Bean! - Doubling has no effect.
+Charged Penny - Gain 2¢, then recharge an item.
+Credit Card - Doubling has no effect.
+Dagaz - Choose one:
+Destroy a Curse.
+Prevent 2 damage to any player.
+Dice Shard - Doubling has no effect.
+Ehwaz - Doubling has no effect.
+*Get Out of Jail Free Card - Doubling has no effect.
+Gold Bomb!! - Deal 6 damage to a monster or player.
+*Gold Key - Doubling has no effect.
+Holy Card - Doubling has no effect.
+Lil Battery - Doubling has no effect.
+Jera - Loot 2 times X, where X is equal to the number of loot cards in your hand.
+Joker - Look at a player’s hand, you may steal two loot cards from it.
+Mega Battery - Doubling has no effect.
+*Perthro - Doubling has no effect.
+*Pills! (black) - Roll:
+1-2: Deal 2 damage to a player.
+3-4: Deal 2 damage to an active monster.
+5-6: Take 2 damage.
+Pills! (blue) - Roll:
+1-2: Loot 2.
+3-4: Loot 6.
+5-6: Discard 2 loot.
+Pills! (red) - Roll:
+1-2: +2 attack till the end of turn.
+3-4: +2 health till the end of turn.
+5-6: Take 2 damage.
+Pills! (yellow) - Roll:
+1-2: Gain 8¢.
+3-4: Gain 14¢.
+5-6: Lose 8¢.
+Pills! (purple) - Roll:
+1-2: Recharge all of your items.
+3-4: +2 to your dice rolls till the end of turn.
+5-6: -4 to your dice rolls till the end of turn.
+*Pills! (White) - Roll:
+1-2: Cancel the effect of any loot card being played.
+3-4: All other players discard 2 loot cards.
+5-6: Nothing.
+*Pills! (White with spots) - Roll:
+1-2: Reroll two of your items.
+3-4: Reroll any item.
+5-6: Reroll all of your items.
+(Reroll = destroy an item and replace it with the top card of the treasure deck.)
+Soul Heart - Prevent 2 damage to any player.
+Two of Diamonds - Quadruple the number of cents a player has.
+*? Card - Doubling has no effect.
+tarot cards (by numeral)
+O. The Fool - Doubling has no effect.
+I. The Magician - Doubling has no effect.
+II. The High Priestess - Choose a player or monster, then roll:
+Deal damage to that target equal to 2 times the number rolled.
+III. The Empress - A player gains +2 attack and +2 to all dice rolls till the end of turn.
+IV. The Emperor - Look at the top 10 cards of the monster deck. Put 8 on the bottom of the deck and 2 back on top in any order.
+V. The Hierophant - Prevent up to 4 damage dealt to a player or monster.
+VI. The Lovers - A player gains +4 health till the end of turn.
+VII. The Chariot - A player gains +2 attack and +2 health till the end of turn.
+VIII. Justice - Doubling has no effect.
+tarot cards (by numeral, continued)
+IX. The Hermit - Look at the top 10 cards of the treasure deck. Put 8 on the bottom of the deck and 2 back on top in any order.
+X. Wheel of Fortune - Roll:
+1: Gain 2¢.
+2: Take 4 damage.
+3: Loot 6.
+4: Lose 8¢.
+5: Gain 10¢.
+6: Gain +2 treasure.
+XI. Strength - A player gains +2 attack till the end of turn and may attack two additional times.
+XII. The Hanged Man - Look at the top card of all decks. You may put those cards on the bottom of their decks, then loot 4.
+XIII. Death - Doubling has no effect.
+XIV. The Tower - Roll:
+1-2: All players take 2 damage.
+3-4: All monsters take 2 damage.
+5-6: All players take 4 damage.
+XV. The Devil - Doubling has no effect.
+XVI. Temperance - Choose one:
+Take 2 damage: gain 8¢.
+Take 4 damage: gain 16¢.
+XVII. The Stars - Gain +2 treasure.
+XVIII. The Moon - Look at the top 10 cards of the loot deck. Put 8 on the bottom of the deck and 2 back on top in any order.
+XIX. The Sun - If it is your turn, gain two additional turns after this one. Put this card on the bottom of the loot deck.
+XX. Judgement - Choose the player with the most souls or tied for the most souls. That player discards two soul cards they control.
+XXI. The World - Look at all player’s hands, then loot 4.
+
+
+
+
+
+
+variants
+
+
+
+
+2 player mini draft
+Setup the game as normal. Once a player is chosen to go first, that player takes the top 3 cards of the treasure deck and places them face up on the table so both players can see. The player going first chooses one of the 3 items, then the player going second chooses one out of the 2 remaining items. The 3rd item is placed at the bottom of the treasure deck. Repeat this process, alternating who picks first until both players have taken 2 items each in addition to their starting eternal item. Play the game as normal.
+
+
+
+
+enhanced bartering
+Loot cards and Items can be traded as well as ¢. Bartering with items cannot be done while dead or during an attack. You still don’t have to keep your promises and you can’t trade souls.
+
+
+
+
+souls are $$$
+Starting items that aren’t being used are shuffled into a deck. During your action phase, you have an additional action: Soul Purchase - You can discard a soul card to gain 5¢, draw 1 loot card, and gain the top card of the starting item deck.
+
+
+
+
+casino mode
+Everybody starts with an Eternal copy of Portable Slot Machine. Use an unused character card or starting item card to denote this copy.
+
+
+selectable characters
+Pick your character! Select from all available characters, or deal out two characters to choose from to each player.
+
+
+
+
+rewards for everyone!
+When a monster dies all non-active players get the reward, but the active player gets double the reward.
+
+
+
+
+super shop
+Whenever a player gains a soul, every other player gains 5¢ and the shop is expanded by 1.
+
+
+
+
+minions die first
+You can’t attack a Boss monsters while there is an active Basic monster.
